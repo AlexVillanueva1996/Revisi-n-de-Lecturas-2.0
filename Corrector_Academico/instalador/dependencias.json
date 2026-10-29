@@ -1,0 +1,16 @@
+{
+  "arquitectura": "x64",
+  "winget": {
+    "python": "Python.Python.3.12",
+    "libreoffice": "TheDocumentFoundation.LibreOffice",
+    "graphviz": "Graphviz.Graphviz",
+    "java": "EclipseAdoptium.Temurin.21.JRE"
+  },
+  "languagetool": {
+    "version": "6.6",
+    "url": "https://languagetool.org/download/LanguageTool-6.6.zip",
+    "sha256": "53600506b399bb5ffe1e4c8dec794fd378212f14aaf38ccef9b6f89314d11631",
+    "carpeta": "LanguageTool-6.6",
+    "fuente_checksum": "https://github.com/ScoopInstaller/extras/blob/master/bucket/languagetool-java.json"
+  }
+}

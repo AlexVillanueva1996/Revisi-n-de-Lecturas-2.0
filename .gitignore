@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+Corrector_Academico/ENTRADAS/**/*.docx
+Corrector_Academico/SALIDAS/*/*
+Corrector_Academico/TEMPORALES/*
+!**/.gitkeep
+*.log
+Corrector_Academico/dependencias/
+Corrector_Academico/instalacion*.json*

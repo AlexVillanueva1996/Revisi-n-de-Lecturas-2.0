@@ -1,0 +1,71 @@
+{
+  "formato": {
+    "papel": "A4",
+    "fuente": "Arial",
+    "tamano_cuerpo": 11,
+    "interlineado": 1.5,
+    "alineacion": "justificada",
+    "margenes_cm": 2.54
+  },
+  "estructura": {
+    "capitulos_en_pagina_nueva": true,
+    "abstract_independiente": true,
+    "resumen_independiente": true,
+    "referencias_en_pagina_nueva": true,
+    "incluir_subcapitulos_indice": false,
+    "programa_academico": ""
+  },
+  "titulos": {
+    "capitalizacion_personalizada": true,
+    "respetar_indice_oficial": true,
+    "siglas": [
+      "PDP",
+      "PMBOK",
+      "ISO",
+      "IA",
+      "EVM",
+      "RCPSP"
+    ],
+    "nombres_propios": [
+      "OpenAI",
+      "Microsoft",
+      "Word",
+      "Python",
+      "Mermaid",
+      "Graphviz",
+      "McKinsey",
+      "PowerPoint"
+    ]
+  },
+  "figuras": {
+    "convertir_mermaid": true,
+    "priorizar_orientacion_vertical": true,
+    "relacion_horizontal_revisar": 1.6,
+    "tamano_texto_minimo_pt": 10,
+    "dpi_png": 300,
+    "validacion_visual": true,
+    "max_nodos": 80
+  },
+  "correccion": {
+    "ortografia_automatica_segura": true,
+    "gramatica_conservadora": true,
+    "corregir_redundancias_seguras": true,
+    "modificar_citas_textuales": false,
+    "reemplazos_seguros": {}
+  },
+  "salida": {
+    "generar_zip": true,
+    "generar_rar_si_disponible": true,
+    "generar_informe": true,
+    "guardar_vistas_previas": true,
+    "incluir_pendientes_en_zip": false
+  },
+  "herramientas": {
+    "soffice": "",
+    "dot": "",
+    "mmdc": "",
+    "word_com": true,
+    "language_tool_url": "",
+    "timeout_seg": 120
+  }
+}

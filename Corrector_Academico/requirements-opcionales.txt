@@ -1,0 +1,4 @@
+# El instalador completo incluye estas dependencias automáticamente.
+language-tool-python==3.4.0
+# Solo Windows, si se quiere utilizar Word instalado en vez de LibreOffice.
+pywin32==311; sys_platform == 'win32'
